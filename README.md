@@ -51,8 +51,9 @@ endmodule
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
-
+Developed by:Senash ayisha F 
+RegisterNumber:*/25018487
+Date:13/9/25
 
 **RTL realization**
 <img width="1621" height="951" alt="image" src="https://github.com/user-attachments/assets/feec7d65-36d4-465c-95a3-d41b54cf7223" />
